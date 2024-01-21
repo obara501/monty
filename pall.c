@@ -1,7 +1,7 @@
 #include "monty.h"
 /**
- * f_pall - prints the stack
- * @head: stack head
+ * f_pall - print stack
+ * @head: head
  * @counter: no used
  * Return: no return
 */

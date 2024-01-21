@@ -1,7 +1,7 @@
 #include "monty.h"
 /**
- * mul - multiply top 2 numbers
- * @stack: input stack address
+ * mul - multiply top numbers
+ * @stack: stack address
  * @line_num: current line number
  */
 void mul(stack_t **stack, unsigned int line_num)
