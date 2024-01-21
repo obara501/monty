@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * pstr - prints a whole string
+ * pstr - prints string
  * @stack: input stack address
  * @line_num: current line number
  */

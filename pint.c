@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * pint - prints the top of the stack
+ * pint - print the top of the stack
  * @stack: stack of the memory
  * @line_num: line number
  */

@@ -1,8 +1,8 @@
 #include "monty.h"
 /**
- * add - addition of the first two elements
- * @stack: input stack address
- * @line_num: number of current line
+ * add - add first two elements
+ * @stack: stack address
+ * @line_num: current line
  */
 void add(stack_t **stack, unsigned int line_num)
 {

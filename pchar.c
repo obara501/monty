@@ -1,8 +1,8 @@
 #include "monty.h"
 
 /**
- * pchar - print the top of stack in character
- * @stack: stack of the memory
+ * pchar - print the top of stack
+ * @stack: stack
  * @line_num: line number
  */
 void pchar(stack_t **stack, unsigned int line_num)
